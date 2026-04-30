@@ -58,9 +58,10 @@ Results are saved to the directory specified in your config file.
 - evaluation/ → metrics
 
 ## Notes
-Data must be configured via the config file
-GRU-D has a separate script: run_GRUD_cross-val.py
-Sklearn models use: run_sklearn_cross_val.py
+- Data must be configured via the config file
+- GRU-D has a separate script: run_GRUD_cross-val.py
+- Sklearn models use: run_sklearn_cross_val.py
+
 
 
 
