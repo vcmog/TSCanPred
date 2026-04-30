@@ -1,0 +1,35 @@
+variable,category
+Albumin,LFT
+ALP,LFT
+ALT,LFT
+Amylase,Other
+Basophils,FBC
+Blood glucose,Other
+Calcium,Renal panel/U&E
+Cholesterol,Lipid profile
+Creatinine,Renal panel/U&E
+CRP,Inflammatory markers
+Eosinophils,FBC
+ESR,Inflammatory markers
+Ferritin,Inflammatory markers
+GGT,LFT
+Globulin,LFT
+Haemoglobin,FBC
+HbA1c - IFCC,FBC
+HDL,Lipid profile
+LDL,Lipid profile
+Lymphocytes,FBC
+MCV,FBC
+Monocytes,FBC
+Neutrophils,FBC
+Platelets,FBC
+Potassium,Renal panel/U&E
+RBC,FBC
+Sodium,Renal panel/U&E
+Total bilirubin,LFT
+Total protein,LFT
+Triglycerides,Lipid profile
+Urea,Renal panel/U&E
+WBC,FBC
+MCH,FBC
+Haematocrit,FBC
